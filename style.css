@@ -39,9 +39,7 @@ article{
     border-style: solid;
     border-radius: 10px;
     border-width: 15px;
-    
 }
-
 #foto{
     border-color: #004064;
     border-width: 15px;
@@ -91,7 +89,6 @@ li img{
         justify-content:space-between;
         font-size: 20px;
         width:800px;
-        
     }
     #foto{
         margin-bottom: 10px;
